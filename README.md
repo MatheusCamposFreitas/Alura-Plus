@@ -5,7 +5,7 @@
 
 # Descrição
 
-<p>Desenvolvimento do layout gráfico do site Alura Plus</p>
+<p>Desenvolvimento do layout gráfico do site Alura Plus versão desktop</p>
 
 # Status
 
